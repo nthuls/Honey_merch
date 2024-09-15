@@ -5,4 +5,4 @@ Made using HTML, CSS and PHP
 
 The website can be run using xampp and any IDE like visual studio among others
 
-The database is currently empty as the db items have not been uploaded
+The database is currently empty 
